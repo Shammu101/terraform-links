@@ -1,0 +1,23 @@
+AKIAYFYRT4QYYVXG6KVU
+
+
+
+z78SHvcWD7uH+gCz+S8ql6qvX7Dbe6kMXcdhoet3
+
+
+
+shammu:
+
+AKIAYFYRT4QYVPGEY4Y3
+
+
+QdiBiAJAaUp3Z44mT+6JkqNDSPKAeYDXZTORMPk1
+
+
+
+========================================
+terraform:
+
+sudo yum install -y yum-utils shadow-utils
+sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
+sudo yum -y install terraform
